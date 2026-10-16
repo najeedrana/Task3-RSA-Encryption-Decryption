@@ -1,0 +1,11 @@
+
+# Generated RSA keys and encrypted messages
+output/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
